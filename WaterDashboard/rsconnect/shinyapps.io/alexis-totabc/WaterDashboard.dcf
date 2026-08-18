@@ -1,0 +1,13 @@
+name: WaterDashboard
+title: WaterDashboard
+username: alexis-totabc
+account: alexis-totabc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17626214
+bundleId: 12344519
+url: https://alexis-totabc.shinyapps.io/WaterDashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: api.R

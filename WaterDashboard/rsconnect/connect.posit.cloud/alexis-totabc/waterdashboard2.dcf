@@ -1,0 +1,13 @@
+name: waterdashboard2
+title: WaterDashboard
+username: alexis-totabc
+account: alexis-totabc
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 019fecc2-f773-2934-033f-4b97b618146e
+bundleId:
+url: https://connect.posit.cloud/alexis-totabc/content/019fecc2-f773-2934-033f-4b97b618146e
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: api.R

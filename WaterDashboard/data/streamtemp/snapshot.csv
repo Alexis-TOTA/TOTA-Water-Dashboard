@@ -1,0 +1,2 @@
+"record_type","timestamp_utc","pipeline_run_id","n_stations","n_rows","bank_first_date","bank_last_date","software_version","note"
+"snapshot","2026-08-18T15:24:49Z","32153594706",26,17386,"2024-10-19","2026-08-18","16a30895c19f","Snapshot record describing this export."
